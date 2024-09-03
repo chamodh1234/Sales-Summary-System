@@ -1,0 +1,7 @@
+{
+    "require": {
+        "dompdf/dompdf": "^3.0",
+        "mpdf/mpdf": "^6.1",
+        "spipu/html2pdf": "^4.6"
+    }
+}
